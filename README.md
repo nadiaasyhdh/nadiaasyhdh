@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hola (✿◡‿◡) I'm Nadia</h1>
-<h3 align="center">A student of Graphic and Multimedia (software).</h3>
+<h3 align="center">A 2nd year student of Graphic and Multimedia (software).</h3>
 
-- ⏱️I’m currently working on **nothing**
 
-- 🤼‍♀️ I’m looking to collaborate on **nothing**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
